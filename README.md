@@ -3,6 +3,9 @@
 Answer the following questions using the SQL Fiddle here: https://www.db-fiddle.com/f/8aebs45GPaJUBgFNDuB1Rh/0
 
 - 1.1 Select the names of all the products in the store.
+
+Select Name from Products
+
 - 1.2 Select the names and the prices of all the products in the store.
 - 1.3 Select the name of the products with a price less than or equal to $200.
 - 1.4 Select all the products with a price between $60 and $120.
